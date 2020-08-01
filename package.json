@@ -1,14 +1,15 @@
 {
+  "homepage": "https:://yasiinn.github.io/yed-tag-input",
   "name": "yed-tag-input",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "yed-tag-input",
-  "author": "YASIINN",
+  "author": "Yasin Efem Dalkılıç",
   "license": "MIT",
   "repository": "YASIINN/yed-tag-input",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
-  "keywords": ["yed-tag-input","react-tag-input","reactjs-tag-input","React-tag-input","Reactjs-tag-input", "yefemdlklc"],
+  "keywords": ["yed-tag-input","react-tag-input","reactjs-tag-input","React-tag-input","Reactjs-tag-input","tag-input", "yefemdlklc"],
   "engines": {
     "node": ">=10"
   },
