@@ -1,7 +1,6 @@
-import { ExampleComponent } from '.'
-
-describe('ExampleComponent', () => {
+import YedTagInput from './yedtagInput/yedtaginput'
+describe('YedTagInput', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(YedTagInput).toBeTruthy()
   })
 })

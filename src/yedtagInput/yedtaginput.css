@@ -1,0 +1,93 @@
+.yedTagInputWrapper{
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 3px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    /*
+    padding: 10px;
+    */
+    border: 1px solid #ccc;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+.yedwrapper{
+
+}
+.yedtags{
+    transition: opacity .5s ease-in-out;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+    padding: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 14px;
+    height: 20px;
+    cursor: default;
+}
+
+.yedtags .yedtagsclose{
+    font-size: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.yedtagsInput{
+    flex: 1;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yedtagsInput input{
+    min-width: 100px;
+    padding-left: 8px;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+.yedtagtitle{
+    text-align: left;
+    margin-bottom: 2px;
+    font-weight: 700;
+    font-size: 14px;
+}
+.yedtagerror{
+    text-align: left;
+    margin-top: 2px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.colorGray{
+    background: #d9d9d9;
+}
+.colorPink{
+     background: #f759ab;
+ }
+.colorPurple{
+    background: #9254de;
+}
+.colorCyan{
+    background: #36cfc9;
+}
+.colorBlue{
+    background:     #40a9ff;
+}
+.colorRed{
+    background: #ff4d4f;
+}
+.colorOrange{
+    background: #ffa940;
+}
+.colorYellow{
+    background: #ffec3d;
+}
+.colorGreen{
+    background: #bae637;
+}
