@@ -53,7 +53,8 @@ export default Example
  Function Name | Description |  Required | Return Value
  :---:  |  :----: | :---:| :---:
   onChange | Works when a new tag is added| true | tag(string)
-    removeTag | Works when a tag is deleted from the list| true | the value to be deleted and the sequence number of the value to be deleted ({index, item})
+      removeTag | Works when a tag is deleted from the list| true | the value to be deleted and the sequence number of the value to be deleted ({index, item})
+
 
 
 
