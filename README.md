@@ -4,12 +4,14 @@
 
 [![NPM](https://img.shields.io/npm/v/yed-tag-input.svg)](https://www.npmjs.com/package/yed-tag-input) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-##Demo
-[Demo.](https://yasiinn.github.io/yed-tag-input-demo/)
+
 ## Install
 ```bash
 npm install --save yed-tag-input
 ```
+
+## Demo
+> [Demo.](https://yasinfmd.github.io/yed-tag-input-demo/)
 
 ## Usage
 
